@@ -306,13 +306,21 @@ header a:hover {
 .images_projets {
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 20px;
     margin-bottom: 6%;
 }
 
 .images_projets img {
-    flex-basis: 23%;
-    width: 100%;
+    width: 23%;
+    height: auto;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.images_projets img:hover {
+    transform: scale(1.05);
 }
 
 .image_zoom:hover {
@@ -507,3 +515,4 @@ footer #img_footer img {
     width: 10%;
     margin-top: 2%;
 }
+
