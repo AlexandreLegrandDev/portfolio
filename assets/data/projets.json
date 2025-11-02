@@ -1,0 +1,82 @@
+[
+    {
+      "id": "indiegamefest",
+      "titre": "Indie Game Fest",
+      "legende": "Dans le cadre d’un projet de fin de première année en BUT MMI, nous avons réalisé, en groupe de 6 étudiants, la campagne de communication d’un festival du jeu vidéo indépendant : l’Indie Game Fest. Découvrez les principaux outils de communications que nous avons produits.",
+      "description": "L’Indie Game Fest est un festival fictif du jeu vidéo indépendant se déroulant du 7 au 9 novembre 2025 à Lyon. Nous avons réalisé la campagne de communication de cet événement en en créant la direction artistique ainsi que les principaux outils de communication utilisés afin de le promouvoir. J’ai essentiellement travaillé sur la conception des affiches ci-dessous, ainsi que le programme du festival.",
+      "image": ["assets/img/projets/IndieGameFest/LOGO_INDIE.png", "assets/img/projets/IndieGameFest/AfficheA3V1.png", "assets/img/projets/IndieGameFest/AfficheIndieV2.png", "assets/img/projets/IndieGameFest/Programme.png"],
+      "categorie": "Communication"
+    },
+    {
+      "id": "affichesmiroir",
+      "titre": "Affiches Miroir",
+      "legende": "Dans le cadre d'un projet de première année de BUT MMI, j'ai du réaliser deux affiches - une verticale et une horizontale - présentant une exposition sur le thème du miroir au Musée d'Art Moderne de Paris. Découvrez mes créations ci-dessous !",
+      "description": "Les deux affiches présentent une exposition sur le thème du miroir. Afin de répondre aux contraintes de l'exercice, j'ai choisi un des artistes présents dans la liste des exposants pour illustrer mon travail. Étant un grand amateur de Magritte, j'ai donc décidé de me servir de ses oeuvres pour proposer un résultat mêlant la représentation des reflets dans l'art avec l'univers surréaliste du peintre belge.",
+      "image": ["assets/img/projets/Affiche_Miroir/Miroir.png", "assets/img/projets/Affiche_Miroir/Affiche_Miroir.jpg", "assets/img/projets/Affiche_Miroir/Affiche_Miroir_Horizontale.jpg"],
+      "categorie": "Communication"
+    },
+    {
+      "id": "snowride",
+      "titre": "Projet Snowride",
+      "legende": "Dans le cadre d'un projet d'intégration web de première année de BUT MMI, j'ai du réaliser la page d'accueil d'un site de vente de produits hivernaux. Découvrez le résultat ci-dessous !",
+      "description": "Le site Snowride est un site de commerce pour produits de sports hivernaux. La page d'accueil se compose de quatre parties (affichées ci-dessous) : le bandeau d'accueil, une présentation des collections, la liste des produits récents et un bandeau de fidélité. Travailler sur ce projet m'a permis d'approfondir l'utilisation de la propriété css display: flex et d'essayer l'intégration responsive d'un site web.",
+      "image": ["assets/img/projets/Snowride/the_snowride.png", "assets/img/projets/Snowride/accueil.png", "assets/img/projets/Snowride/presentation.png", "assets/img/projets/Snowride/produits.png", "assets/img/projets/Snowride/footer.png"],
+      "categorie": "Web"
+    },
+    {
+      "id": "faunesia",
+      "titre": "Éditions Faunésia",
+      "legende": "Dans le cadre d'un projet de communication en première année de BUT MMI, nous avons du créer, par groupe de 4 étudiants, une maison d'éditions jeunesse et sa communication avant son ouverture. Découvrez les différents visuels que nous avons réalisés.",
+      "description": "Faunésia est une maison d'éditions jeunesse destinée aux enfants de 3 à 10 ans. Elle présente l'univers de Faunésia, un monde fantastique peuplé d'animaux particuliers et colorés. Sa mascotte, le caméléon Kroma, explore ce vaste monde en compagnie de ses amis : Karma le perroquet, Luna la louve de la nuit, Bloom la girafe et Inv le chat-limace. J'ai réalisé pour ma part la couverture du livre de Inv, ainsi que le catalogue ci-dessous. (L'IA a été utilisée dans certains visuels.)",
+      "image": ["assets/img/projets/Faunésia/Éditions_Faunésia.png", "assets/img/projets/Faunésia/Affiche_Faunésia.png", "assets/img/projets/Faunésia/mockupcatalogue.png", "assets/img/projets/Faunésia/Couverture_Inv.png"],
+      "categorie": "Communication"
+    },
+    {
+      "id": "booksta",
+      "titre": "Booksta",
+      "legende": "Dans le cadre d'un projet de première année de BUT MMI, j'ai du réaliser un compte Instagram reprenant le concept de 'Booksta'. Retrouvez les différentes publications que j'ai réalisée pour ce travail.",
+      "description": "Un 'Booksta' est un compte Instagram postant régulièrement son avis sur les derniers livres du moments et souhaitant partager ses dernières lectures. Me prêtant au jeu, j'ai créé un compte d'écrivain partageant à mes abonnés mes lectures et les inspirations que je pouvais en tirer. Je suis resté dans les tonalités fantastiques et sci-fi, qui sont mes thèmes préférés, et ai essayé d'apporter une cohérence artistique entre les différentes publications.",
+      "image": ["assets/img/projets/Booksta/booksta.png", "assets/img/projets/Booksta/BLASPHEMOUS_booksta.png", "assets/img/projets/Booksta/H2G2_booksta.png", "assets/img/projets/Booksta/Watchmen_booksta.png"],
+      "categorie": "Communication"
+    },
+    {
+      "id": "saveme",
+      "titre": "Save Me",
+      "legende": "Il m’arrive d’écrire de la poésie. J’aimerais, à l’avenir, partager certains de mes poèmes en ligne. Pour cela, je produis des illustrations relatives aux thèmes que mes textes abordent. Découvrez les illustrations de Save Me, un recueil de 4 poèmes.",
+      "description": "Save Me est une collection de 4 poèmes qui traitent avec humour, ironie et mélancolie le thème du héros délivrant sa bien aimée. J’ai entièrement réalisé les textes et illustrations afin de donner vie à ma vision artistique. ",
+      "image": ["assets/img/projets/Save_Me/Save_Me_titre.png", "assets/img/projets/Save_Me/Magnolia.png", "assets/img/projets/Save_Me/Sauve_Moi.png", "assets/img/projets/Save_Me/Princess_Slayer.png"],
+      "categorie": "Écriture"
+    },
+    {
+      "id": "jo",
+      "titre": "Chez Jo",
+      "legende": "Dans le cadre d'un devoir noté de première année en BUT MMI, j'ai du réaliser un site de commande pour la friterie 'Chez Jo'. Découvrez le résultat de mon travail.",
+      "description": "J'ai réalisé ce site (sa version téléphone) en m'occupant du back (php et sql) ainsi que du front (html et css) grâce à une maquette à respecter. Le site présente un système de commande simple : ajout du produit dans le panier, possibilité de modifier le nombre d'articles souhaités et redirection vers la page d'achat avec ajout de la commande dans la base de données. ",
+      "image": ["assets/img/projets/ChezJO/Logo_Jo.png", "assets/img/projets/ChezJO/liste_produits.png", "assets/img/projets/ChezJO/repas.png", "assets/img/projets/ChezJO/panier.png"],
+      "categorie": "Web"
+    },
+    {
+      "id": "etherealcomplex",
+      "titre": "Ethereal Complex",
+      "legende": "J'ai écrit le manuscrit d'un roman de dark fantasy. Après deux ans de travail acharné, je suis fier de pouvoir partager le résumé et la couverture que j'ai réalisée. Découvrez 'Ethereal Complex'.",
+      "description": "Somnolent dans les méandres de son royaume, le Faucheur se voit convoqué par ses confrères, les Éthérés. Répondant à ses fonctions, il est missionné d’éliminer une nouvelle fois des aberrations parcourant les dimensions de la Réalité et menaçant l’équilibre instauré. Mais le chasseur obscur réalise alors être victime d’une conspiration visant à le supprimer. Décidé à se battre en compagnie de sa puissante faux, le Faucheur va alors s’opposer aux décisions destructrices de l’autorité supérieure, les Créateurs, quitte à mettre sa vie en péril pour la survie de la Réalité.",
+      "image": ["assets/img/projets/Ethereal_Complex/vignette.png", "assets/img/projets/Ethereal_Complex/Ethereal_Complex.png"],
+      "categorie": "Écriture"
+    },
+    {
+      "id": "siteindiegamefest",
+      "titre": "Site vitrine de l'Indie Game Fest",
+      "legende": "Dans le cadre d’un projet de fin de première année en BUT MMI, nous avons réalisé, en groupe de 6 étudiants, le site vitrine d’un festival du jeu vidéo indépendant : l’Indie Game Fest. Découvrez le site Wordpress que nous avons produit.",
+      "description": " L’Indie Game Fest est un festival fictif du jeu vidéo indépendant se déroulant du 7 au 9 novembre 2025 à Lyon. Nous avons réalisé le site vitrine de cet événement grâce au CMS Wordpress. Le site se compose ainsi de plusieurs pages, notamment avec les jeux intervenants. On retrouve ainsi une page d'accueil, un descriptif de l'événement et une page interactive de contacts et renseignements.",
+      "image": ["assets/img/projets/SiteIndieGameFest/expo.png", "assets/img/projets/SiteIndieGameFest/accueil.png", "assets/img/projets/SiteIndieGameFest/rainworld.png", "assets/img/projets/SiteIndieGameFest/contact.png", "assets/img/projets/SiteIndieGameFest/event.png"],
+      "categorie": "Web"
+    },
+    {
+      "id": "instagram",
+      "titre": "Instagram",
+      "legende": "Dans le cadre d'un projet de web en première année de BUT MMI, j'ai du réaliser un site web reprenant le concept d'Instagram. Retrouvez le résultat ci-dessous !",
+      "description": "Ce projet de Instagram primitif avait pour objectif la réalisation d'un site en responsive (version téléphone). Afin de produire une application fonctionnelle, j'ai du réaliser le front (html et css) et le back (php et sql) du site. L'application est composée d'une page d'accueil qui affiche les dernières publications des abonnements de l'utilisateur. On retrouve également une fonctionnalité permettant d'afficher toutes les publications du site mais également de rechercher un tag en particulier. Enfin, l'utilisateur peut choisir de s'abonner ou se désabonner aux autres utilisateurs de son choix.",
+      "image": ["assets/img/projets/Insta/fake_insta.png", "assets/img/projets/Insta/liste_publications.png", "assets/img/projets/Insta/publication.png", "assets/img/projets/Insta/tags.png", "assets/img/projets/Insta/abonnements.png"],
+      "categorie": "Web"
+    }
+  ]

@@ -1,0 +1,105 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Alexandre LEGRAND</title>
+</head>
+<body>
+  
+<header>
+
+  <a href="index.html">Accueil</a>
+  <a href="rea.html">Réalisations</a>
+  <a href="#" id="lien_logo"><img src="assets/img/logo/Logo_Typo_Ver.png" id="logo"></a>
+  <a href="apropos.html">À propos</a>
+  <a href="contact.html">Contact</a>
+
+</header>
+
+
+<h1>La super page de rea</h1>
+
+
+
+
+
+</body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/script.js"></script>
+  <title>Alexandre LEGRAND</title>
+</head>
+<body>
+  
+  <header>
+
+    <nav class="nav-left">
+    <a href="index.html">Accueil</a>
+    <a href="rea.html">Réalisations</a>
+    </nav>
+
+    <a href="#" id="lien_logo"><img src="assets/img/projets/logo/Logo_Typo_Ver.png" id="logo"></a>
+
+    <nav class="nav-right">
+    <a href="apropos.html">À propos</a>
+    <a href="contact.html">Contact</a>
+    </nav>
+
+  </header>
+
+  <div class="container banner_rea">
+
+      <div class="sous-titre_rea">
+        <h1>Projets</h1>
+        <span>Découvrez la liste de mes projets, liés ou non à mes études. Graphisme, écriture, code - ces outils me permettent de m’exprimer et de m’épanouir dans ma propre créativité.</span>
+      </div>
+
+      <div id="banner_contact_baleine">
+        <img src="assets/img/site/Baleine.svg">
+      </div>
+
+  </div>
+
+  <div class="container projets">
+
+    <h2 class="mes_competences">Mes réalisations</h2>
+
+    <div id="liste_projets">
+
+      <script>
+        fetch('assets/data/projets.json')
+          .then(res => res.json())
+          .then(projets => {
+            console.log(projets);
+            affiche_projets(projets, 0);
+          });
+      </script>
+
+    </div>
+
+  </div>
+
+  <footer>
+
+    <div id="text_footer">
+      <span>Copyright © 2025 All Rights Reserved. </span> 
+      <span> &nbsp; Alexandre LEGRAND</span>
+    </div>
+
+    <div id="img_footer">
+      <img src="assets/img/projets/logo/Logo_Typo.png">
+    </div>
+  </footer>
+
+
+</body>
+>>>>>>> e4aec2b (Ajout du projet au Github)
+</html>

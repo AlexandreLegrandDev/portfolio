@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+<<<<<<< HEAD
+=======
+  <script src="js/script.js"></script>
+>>>>>>> e4aec2b (Ajout du projet au Github)
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+  <title>Alexandre LEGRAND</title>
+</head>
+<body>
+  
+  <header>
+
+    <nav class="nav-left">
+    <a href="index.html">Accueil</a>
+    <a href="rea.html">Réalisations</a>
+    </nav>
+
+    <a href="#" id="lien_logo"><img src="assets/img/projets/logo/Logo_Typo_Ver.png" id="logo"></a>
+
+    <nav class="nav-right">
+    <a href="apropos.html">À propos</a>
+    <a href="contact.html">Contact</a>
+    </nav>
+
+  </header>
+
+  <div class="container banner">
+    <h1>ALEXANDRE LEGRAND</h1>
+
+    <span class="sous-titre">Étudiant en MMI2, développeur web et créatif rêveur</span>
+    
+    <img id="bestiaire" src="assets/img/site/Bestiaire_Alexandre.svg" alt="Illustration de bestiaire d'Alexandre L">
+
+    <div id="boutons_index">
+      <a class="bouton" href="rea.html">Voir mes projets</a>
+      <a class="bouton" href="assets/img/site/CV_Alexandre_LEGRAND.pdf" download CHATGPT>Télécharger mon CV</a>
+    </div>
+
+  </div>
+
+  <div class="container projets">
+
+    <h2>Mes projets récents</h2>
+
+<<<<<<< HEAD
+    <div class="liste_projets">
+
+      <div class="projet">
+        <img src="assets/img/projets/AfficheA3V1.png" alt="Affiche IndieGameFest">
+        <div class="hover">skibidi</div>
+      </div>
+    
+      <div class="projet">
+        <img src="assets/img/projets/Affiche_Miroir_Horizontale.jpg" alt="Affiche Miroir Horizontale">
+        <div class="hover">skibidi</div>
+      </div>
+
+      <div class="projet">
+        <img src="assets/img/projets/Snowride.png" alt="Présentation Snowride">
+        <div class="hover">skibidi</div>
+      </div>
+=======
+    <div id="liste_projets">
+
+      <script>
+
+        fetch('assets/data/projets.json')
+          .then(res => res.json())
+          .then(projets => {
+              affiche_projets(projets, 3);
+          });
+
+      </script>
+>>>>>>> e4aec2b (Ajout du projet au Github)
+
+    </div>
+
+    
+  </div>
+
+  <div class="container apropos">
+
+    <h2>À propos de moi</h2>
+
+    <span class="description">
+      Je suis Alexandre Legrand, étudiant en 2ème année de BUT MMI à l’IUT de Lens. 
+      Créatif et artiste durant mon temps libre, je suis attiré par le développement web et l’algorithmie depuis ma découverte des langages de programmation au lycée. 
+    </span>
+
+    <a class="bouton bouton_apropos" href="apropos.html">Qui suis-je ?</a>
+
+
+  </div>
+
+
+  <footer>
+
+    <div id="text_footer">
+      <span>Copyright © 2025 All Rights Reserved. </span> 
+      <span> &nbsp; Alexandre LEGRAND</span>
+    </div>
+
+    <div id="img_footer">
+      <img src="assets/img/projets/logo/Logo_Typo.png">
+    </div>
+  </footer>
+
+</body>
+<<<<<<< HEAD
+</html>
+=======
+</html>
+>>>>>>> e4aec2b (Ajout du projet au Github)
